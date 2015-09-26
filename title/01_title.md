@@ -9,4 +9,5 @@
 
 * What is Reactive Programming?
 * Introduction of React.js + Redux
+  * written in ES6 (and ES7)
 * Webpack Good Points
