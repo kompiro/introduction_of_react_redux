@@ -1,5 +1,5 @@
 !SLIDE
-# Introduction of React.js + Redux / Webpack #
+# Introduction of <br/> React.js + Redux / Webpack #
 ### Hiroki Kondo a.k.a [@kompiro](http://github.com/kompiro)
 ### kanazawa.rb meetup #37
 
