@@ -15,11 +15,11 @@
 1. Render UI.
 
 !SLIDE
-# Application Flow(ex. React + Redux) #
+# Application Flow<br/> (ex. React + Redux) #
 
 1. Input from UI. -> Browser
-1. Handle Events. -> React
-1. Change app state. -> Redux
-1. Render UI. -> React
+1. Handle Events. -> **React.js**
+1. Change app state. -> **Redux**
+1. Render UI. -> **React.js**
 
 
