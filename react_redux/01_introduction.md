@@ -22,7 +22,7 @@
 
     React.render(<HelloMessage name="John" />, mountNode);
 
-<HelloMessage />
+write `<HelloMessage />`: abstraction (includes css and js deps.)
 
 !SLIDE code small
 
