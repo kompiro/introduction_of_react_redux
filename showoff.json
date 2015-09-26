@@ -1,1 +1,8 @@
-{ "name": "My Preso", "sections": [ {"section":"one"} ]}
+{
+  "name": "Introduction React.js + Redux and Webpack",
+  "description": "How to start with React.js + Redux, and Webpack",
+  "author": "Hiroki Kondo",
+  "sections": [
+    {"section":"one"}
+  ]
+}
