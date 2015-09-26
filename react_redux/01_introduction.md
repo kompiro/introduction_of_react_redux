@@ -57,17 +57,17 @@ The application state tree is...
 - Immutable (read-only)
 - Changed by pure function
 
-!SLIDE
+!SLIDE small
 # 4 Basic Concept #
 
 - Store
   - store state and action dispatcher
 - Action Creator
-  - called from UI
+  - The function is called from UI
 - Action
-  -  change state (object)
+  - The object of how to change the state
 - Reducer
-  - change state (pure function)
+  - The pure function of where to change the state
 
 !SLIDE
 # Interesting Point #
